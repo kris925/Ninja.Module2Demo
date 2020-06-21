@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaDomain.Classes", "NinjaDomain.Classes\NinjaDomain.Classes.csproj", "{5F91C343-A145-418B-87E0-0F8AC2E28BD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaDomain.DataModel", "NinjaDomain.DataModel\NinjaDomain.DataModel.csproj", "{5E5AB5ED-3C18-4185-9C56-8E7220160BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F91C343-A145-418B-87E0-0F8AC2E28BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F91C343-A145-418B-87E0-0F8AC2E28BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F91C343-A145-418B-87E0-0F8AC2E28BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5AB5ED-3C18-4185-9C56-8E7220160BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5AB5ED-3C18-4185-9C56-8E7220160BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5AB5ED-3C18-4185-9C56-8E7220160BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5AB5ED-3C18-4185-9C56-8E7220160BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
